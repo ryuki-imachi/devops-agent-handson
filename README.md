@@ -38,6 +38,13 @@ chmod +x setup.sh
 ./setup.sh
 ```
 
+### FIS 実験の開始
+
+```bash
+chmod +x start-experiment.sh
+./start-experiment.sh
+```
+
 ### クリーンアップ
 
 ```bash
