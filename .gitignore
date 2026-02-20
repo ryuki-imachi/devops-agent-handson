@@ -1,1 +1,4 @@
 .DS_Store
+image/*
+!image/architecture.drawio
+!image/architecture.png
